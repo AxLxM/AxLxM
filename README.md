@@ -22,7 +22,7 @@
 
 ### 🛠 &nbsp;Tech Stack
 
-![CSharp](https://img.shields.io/badge/-C-05122A?style=flat&logo=Csharp&logoColor=A8B9CC)&nbsp;
+![C SHARP](https://img.shields.io/badge/-C-05122A?style=flat&logo=Csharp&logoColor=A8B9CC)&nbsp;
 
 ![.net Core](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
 
