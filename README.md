@@ -26,6 +26,8 @@
 
 ![.net Core](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
 
+![SQL](https://img.shields.io/badge/-C-05122A?style=flat&logo=database&logoColor=A8B9CC)&nbsp;
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
