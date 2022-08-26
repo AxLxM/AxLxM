@@ -69,15 +69,15 @@
 
 <p align="center">
 
-<a href="https://axlxm.ir"><img src="https://img.shields.io/badge/-adityavsingh.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://axlxm.ir"><img src="https://img.shields.io/badge/-axlxm.ir-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 
-<a href="https://ir.linkedin.com/in/arya-lotfi-866ba3199"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://ir.linkedin.com/in/arya-lotfi-866ba3199"><img src="https://img.shields.io/badge/-arya-lotfi-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 
-<a href="mailto:ar.lotfim@gmail.com"><img src="https://img.shields.io/badge/-avsingh@umass.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:ar.lotfim@gmail.com"><img src="https://img.shields.io/badge/-ar.lotfim@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 
-<a href="https://instagram.com/darknight.alm"><img src="https://img.shields.io/badge/-@adityavs__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://instagram.com/darknight.alm"><img src="https://img.shields.io/badge/-@darknight.alm-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 
-<a href="https://facebook.com/ar.lotfim"><img src="https://img.shields.io/badge/-@AVS1508-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+<a href="https://facebook.com/ar.lotfim"><img src="https://img.shields.io/badge/-@ar.lotfim?style=flat&logo=Facebook&logoColor=white"/></a>
 
 </p>
 
