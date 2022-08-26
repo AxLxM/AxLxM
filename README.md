@@ -24,9 +24,9 @@
 
 ![C SHARP](https://img.shields.io/badge/-C-05122A?style=flat&logo=Csharp&logoColor=A8B9CC)&nbsp;
 
-![.net Core](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
+![&#8228;net Core](https://img.shields.io/badge/-.netCore-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
 
-![SQL](https://img.shields.io/badge/-C-05122A?style=flat&logo=database&logoColor=A8B9CC)&nbsp;
+![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=layer)&nbsp;
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 
